@@ -28,4 +28,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 tét
 hi
+<<<<<<< HEAD
 dudu
+=======
+hi
+>>>>>>> 644a9d3931e70c16f23c455b513ce42b988fc1b2
